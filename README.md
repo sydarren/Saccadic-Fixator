@@ -16,7 +16,7 @@ Components used:
 1 - 12V power brick (DC otput jack)
 
 Libraries used:
-<ShiftOutX.h> and <ShiftPinNo.h> were used to drive the 74HC595 shift registers.
+<ShiftOutX.h> and <ShiftPinNo.h> by Juan Hernandez(https://codebender.cc/library/ShiftOutX#ShiftOutX.h) were used to drive the 74HC595 shift registers.
 
 Program flow:
 1. User is prompted via the 2 blue buttons lighted up near the 7 segment display to select timer countdown duration, either 30 or 60 seconds.

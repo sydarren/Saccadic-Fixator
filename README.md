@@ -7,13 +7,13 @@ Athletic trainers, developmental vision optometrists, and rehabilitation therapi
 Dimentions: 40x40 inches
 
 Components used:
-1- Arduino Mega 
-4 - 7-segment displays
-4 - 74HC595 8-bit shift registers
-33 - 1 kOhm resistors
-33 - 2N2222 transistors
-33 - CHILONG brand circular arcade LED push button
-1 - 12V power brick (DC otput jack)
+1- Arduino Mega.
+4 - 7-segment displays.
+4 - 74HC595 8-bit shift registers.
+33 - 1 kOhm resistors.
+33 - 2N2222 transistors.
+33 - CHILONG brand circular arcade LED push button.
+1 - 12V power brick (DC otput jack).
 
 Libraries used:
 <ShiftOutX.h> and <ShiftPinNo.h> by Juan Hernandez(https://codebender.cc/library/ShiftOutX#ShiftOutX.h) were used to drive the 74HC595 shift registers.
